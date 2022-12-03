@@ -1,7 +1,6 @@
 # Cinema API
 
 API service for cinema management written on DRF
-<hr>
 
 ## Installing using GitHub
 Run with Docker:
@@ -12,7 +11,6 @@ cd cinema-api
 docker-compose build
 docker-cimpose up
 ```
-<hr>
 
 ## Getting access
 
