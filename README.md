@@ -9,7 +9,7 @@ Run with Docker:
 git clone https://github.com/Kitazuka/cinema-api.git
 cd cinema-api
 docker-compose build
-docker-cimpose up
+docker-compose up
 ```
 
 ## Getting access
